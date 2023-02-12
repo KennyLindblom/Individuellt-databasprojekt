@@ -40,4 +40,4 @@ Här följer de funktioner du ska bygga i ditt program.
  # Modellering 
  
  
- ![Screenshot](Individuella Projekt DB .png)
+ ![TestImage](https://github.com/KennyLindblom/Individuellt-databasprojekt/blob/master/Individuella%20Projekt%20DB%20.png)
